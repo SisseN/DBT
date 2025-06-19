@@ -11,5 +11,7 @@ sources:
     
     tables:
       - name: customers
+        description: Raw data table with unique customers 1 per row
         freshness: null
       - name: orders
+        description: RAW data table with unique Orders 1 per row
